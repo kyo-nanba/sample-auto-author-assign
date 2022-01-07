@@ -1,0 +1,1 @@
+# sample-auto-author-assign
